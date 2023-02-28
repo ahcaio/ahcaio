@@ -1,4 +1,17 @@
-## Olá! Eu sou o Caio Cesar
+<div>
+ <h3 align="center">
+    Olá! Eu sou o Caio Cesar 👋!
+   
+ 
+ <!-- PRESENTATION (GIF) -->
+<div>
+    <p align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=iOS+Development;Always+learning+new+things!" alt="Typing SVG" /></a>
+    </p>
+</div>
+</div>
+
+## 
 
 - 🔭 Hoje trabalho como Analista de Planejamento
 - 🌱 Estudando Swift / desenvolvimento iOS
