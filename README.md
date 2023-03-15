@@ -6,7 +6,7 @@
  <!-- PRESENTATION (GIF) -->
 <div>
     <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7712C&center=true&vCenter=true&width=435&lines=iOS+Development;Always+learning+new+things!" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79129&center=true&vCenter=true&width=435&lines=Frontend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
     </p>
 </div>
 </div>
@@ -14,7 +14,7 @@
 ## 
 
 - 🔭 Hoje trabalho como Analista de Planejamento
-- 🌱 Estudando Swift / desenvolvimento iOS
+- 🌱 Frontend / Web / Mobile
 - 📫 Como chegar até mim: www.linkedin.com/in/devcaio
 
 ##
