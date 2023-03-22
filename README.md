@@ -1,6 +1,6 @@
 <div>
  <h3 align="center">
-    Olá! Eu sou o Caio Cesar 👋!
+    Hi, I'm Caio Cesar 👋!
    
  
  <!-- PRESENTATION (GIF) -->
@@ -14,9 +14,8 @@
 
 ## 
 
-- 🔭 Hoje trabalho como Analista de Planejamento
-- 🌱 iOS Developer
-- 📫 Como chegar até mim: www.linkedin.com/in/devcaio
+- 🔭 I'm a {mobile iOS} developer. Here I present my personal projects, which I am using my experience in Swift.
+- 📫 How to reach me: www.linkedin.com/in/devcaio
 
 ##
 
