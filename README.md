@@ -6,8 +6,8 @@
  <!-- PRESENTATION (GIF) -->
 <div>
     <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78847&center=true&vCenter=true&width=435&lines=iOS+Developer;Always+learning+new+things!" alt="Typing SVG" />
-     </a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75F0C&center=true&width=435&lines=iOS+Developer;Always+learning+new+things!" alt="Typing SVG" />
+      </a>
     </p>
 </div>
 </div>
