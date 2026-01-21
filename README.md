@@ -15,7 +15,7 @@
 ## 
 
 - 🔭 I'm an IT Infrastructure Analyst. Here I present my personal projects, where I apply my experience in automation, cloud, and system administration.
-- 📫 How to reach me: www.linkedin.com/in/devcaio
+- 📫 How to reach me: www.linkedin.com/in/limeira
 
 ##
 <div> 
